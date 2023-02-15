@@ -1,0 +1,123 @@
+{
+  "catalogue": [
+    {
+      "id": 0,
+      "title": "Manos: The Hands of Fate",
+      "year": 1966,
+      "link": "1966manos",
+      "tags": "Horror, 1960s",
+      "director": "Harold P. Warren",
+      "actors": "Harold P. Warren, Diane Adelson, Tom Neyman, John Reynolds, William Bryan Jennings, Jackey Neyman Jones, etc.",
+      "sinopsis": "Harold P. Warren, productor, director y protagonista de esta película que, sin experiencia alguna en el cine, realizó por una apuesta, cae junto a su familia en las garras de Torgo, un siniestro sátiro al servicio de un culto ultramachista consagrado al dios Manos. Considerada como una de las peores películas de la historia, <em>Manos</em> es un antes y un después, una bisagra en la vida de todos aquellos que se han atrevido a mirarla.",
+      "stars": 6,
+      "version": "Subtítulos corregidos por E. para versión de 1:08:43 hs.",
+      "trailer": "sF03ZFt8t8w",
+      "header": 2
+    },
+    {
+      "id": 1,
+      "title": "Guru, the Mad Monk",
+      "year": 1970,
+      "link": "1970guru",
+      "tags": "Horror, 1970s",
+      "director": "Andy Milligan",
+      "actors": "Neil Flanagan, Jaqueline Webb, Judith Israel, Jack Spencer, Frank Echols, Gerald Jacuzzo, Paul Lieber, Irving Metzman, etc.",
+      "sinopsis": "El padre Guru, un monje loco a cargo de una isla de la Iglesia que sirve como prisión y centro de ejecuciones, ve peligrar su reinado de horror al frente del lugar, por lo que deberá servirse de una pareja en apuros y de su fiel ayudante jorobado Igor para mantener su posición y seguir dando protección a su amante bruja-vampiro. Una joya de sangre y orgiástico horror con el inconfundible sello del maestro <a href='ad-milligan.html'>Andy Milligan</a>.",
+      "stars": 7,
+      "version": "Subtítulos hechos por E. para la versión de <a href='https://archive.org/details/GuruTheMadMonk' target='_blank'>Archive.Org</a>.",
+      "trailer": "0_PBoy0n34E",
+      "header": 1
+    },
+    {
+      "id": 2,
+      "title": "Carnage",
+      "year": 1984,
+      "link": "1984carnage",
+      "tags": "Horror, 1980s",
+      "director": "Andy Milligan",
+      "actors": "Leslie Den Dooven, Michael Chiodo, Che Moody, Lola Ross, Deeann Veeder, Chris Georges, Jack Poggi, Judith Mayes, etc.",
+      "sinopsis": "Carol y Johnathan, recién casados, son muy felices al mudarse a una enorme mansión que encontraron a un precio irrisorio. Lo que no sospechan es que aquella vieja casa es perturbada por sus antiguos propietarios, una joven pareja que se suicidó allí dentro. El maestro <a href='ad-milligan.html'>Andy Milligan</a> alcanza la cumbre absoluta en el género de casas embrujadas mediante esta obra maestra del verismo y el horror costumbrista.",
+      "stars": 8,
+      "version": "Subtítulos hechos por E. para versión de 1:32:40 hs.",
+      "trailer": "BmJ-biqs-UY",
+      "header": 6
+    },
+    {
+      "id": 3,
+      "title": "The Uncanny",
+      "year": 1977,
+      "link": "1977uncanny",
+      "tags": "Horror, 1970s",
+      "director": "Denis Héroux",
+      "actors": "Peter Cushing, Ray Milland, Donald Pleasence, John Vernon, Samantha Eggar, Joan Greenwood, Susan Penhaligon, Chloe Franks, etc.",
+      "sinopsis": "<a href='ad-cushing.html'>Peter Cushing</a> visita a su editor, <a href='ad-milland.html'>Ray Milland</a>, para convencerlo de publicar su terrible investigación sobre una conspiración llevada adelante por los gatos para dominar al ser humano, la cual pasa a ilustrar con tres historias de horror en las que diversos gatos dignos de Ulthar, como Scat o Wellington, son los protagonistas. Imperdible antología gatuna de horror a la altura de los mejores <em>portmanteaus</em> de Amicus.",
+      "stars": 8,
+      "version": "Subtítulos hechos por E. para versión de 1:25:04 hs.",
+      "trailer": "reKzSETwAe4",
+      "header": 2
+    }
+  ],
+  "people": [
+    {
+      "lastName": "Milligan",
+      "firstName": "Andy",
+      "dir": true,
+      "bio": "(St. Paul, EE.UU., 1929 - Los Ángeles, EE.UU., 1991)",
+      "filmo": [
+        "1968 The Ghastly Ones",
+        "1970 Torture Dungeon",
+        "1970 Bloodthirsty Butchers",
+        "1970 The Body Beneath",
+        "<a href='1970guru.html'>1970 - Guru, the Mad Monk</a>",
+        "1972 The Man with Two Heads",
+        "1972 The Rats Are Coming! The Werewolves Are Here!",
+        "1974 Blood",
+        "1978 Legacy of Blood",
+        "<a href='1984carnage.html'>1984 - Carnage</a>"
+      ],
+      "header": 4
+    },
+    {
+      "lastName": "Cushing",
+      "firstName": "Peter",
+      "dir": false,
+      "bio": "(Kenley, Inglaterra, 1913 - Canterbury, Inglaterra, 1994)",
+      "filmo": [
+        "1957 The Curse of Frankenstein",
+        "1958 Horror of Dracula",
+        "1959 The Hound of the Baskervilles",
+        "1960 The Flesh and the Fiends",
+        "1961 Cash on Demand",
+        "1965 Dr. Terror's House of Horrors",
+        "1965 The Skull",
+        "1967 Torture Garden",
+        "1969 Frankenstein Must Be Destroyed",
+        "1971 Twins of Evil",
+        "1972 Tales from the Crypt",
+        "1972 Asylum",
+        "1974 From Beyond the Grave",
+        "<a href='1977uncanny.html'>1977 - The Uncanny</a>"
+      ],
+      "header": 1
+    },
+    {
+      "lastName": "Milland",
+      "firstName": "Ray",
+      "dir": false,
+      "bio": "(Neath, Gales, 1907 - Torrance, EE.UU., 1986)",
+      "filmo": [
+        "1944 The Uninvited",
+        "1945 The Lost Weekend",
+        "1948 The Big Clock",
+        "1962 The Premature Burial",
+        "1962 Panic in Year Zero!",
+        "1963 X: The Man with the X-Ray Eyes",
+        "1972 The Thing with Two Heads",
+        "1973 Terror in the Wax Museum",
+        "<a href='1977uncanny.html'>1977 - The Uncanny</a>",
+        "1980 The Attic"
+      ],
+      "header": 1
+    }
+  ]
+}

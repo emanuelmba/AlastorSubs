@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alastor Subs | Películas</title>
+    <meta
+      name="description"
+      content="Subtítulos Alastor | Servicios de subtítulado de películas, series, documentales, tutoriales y cortos | Subtítulos, traducción, sincronización y más" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+      integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer" />
+    <link rel="icon" href="https://editorial-alastor.com.ar/favicon.ico" />
+    <link rel="canonical" href="https://editorial-alastor.com.ar/subs/" />
+    <link rel="stylesheet" href="files/styles.css" />
+  </head>
+
+  <body id="page">
+    <header class="header-img" style="background: url('./imgs/asubs-movies.jpg')">
+      <nav id="navbar"></nav>
+      <div class="content">
+        <h2>Películas</h2>
+      </div>
+    </header>
+
+    <main class="list-page">
+      <section class="gallery darken">
+        <header class="section-header">
+          <legend>
+            <div class="order">
+              <label for="sort">Ordenar por</label>
+              <select id="sort" name="sort">
+                <option id="opDate" value="date">Fecha</option>
+                <option id="opTitle" value="title">Título</option>
+                <option id="opYearA" value="yearA">Año Asc.</option>
+                <option id="opYearD" value="yearD">Año Desc.</option>
+              </select>
+            </div>
+          </legend>
+        </header>
+        <div id="catalogue" class="m-row"></div>
+      </section>
+
+      <section class="gallery bg-light">
+        <a href="index.html#movies" class="btn page-btn btn-light">
+          <i class="fas fa-chevron-left"></i> &nbsp;Volver</a>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div id="footer"></div>
+    </footer>
+
+    <script src="files/main.js"></script>
+  </body>
+</html>
